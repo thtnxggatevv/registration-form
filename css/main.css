@@ -1,0 +1,24 @@
+html {
+ font-family: "Open Sans", sans-serif;
+}
+
+input,
+select,
+textarea {
+ border-color: #f2f2f2;
+}
+
+button {
+ padding: .5em .75em;
+ border: 10px solid;
+ color: #fff;
+ background-color: #000;
+}
+
+@media only screen and (min-width: 60em) {
+
+ body {
+   background-color: #fff;
+ }
+
+}
